@@ -1,1 +1,1 @@
-and","Parasites",
+print(len(market))
